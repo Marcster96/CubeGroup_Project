@@ -1,0 +1,2 @@
+scr_saveOldRoomInTransactions(room)
+room_goto(rm_AreaSelection);

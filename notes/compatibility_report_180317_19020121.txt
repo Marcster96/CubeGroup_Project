@@ -1,0 +1,47 @@
+Converting GML script : ${project_dir}\scripts\scr_selectorCreate\scr_selectorCreate.gml
+Converted builtin : line 4 : view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin : line 5 : view_yview[view_current] -> __view_get( e__VW.YView, view_current )
+Converted builtin : line 4 : view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Converted builtin : line 5 : view_hview[view_current] -> __view_get( e__VW.HView, view_current )
+
+Font fnt_levelSelection has been converted to font family Calibri (Bold). Font has been regenerated, small inconsistencies may occur.
+Font fnt_ingame has been converted to font family Calibri (Regular). Font has been regenerated, small inconsistencies may occur.
+Font fnt_MainMenu has been converted to font family Calibri (Bold). Font has been regenerated, small inconsistencies may occur.
+Converting GML script : ${project_dir}\objects\obj_pause\Draw_0.gml
+Converted builtin : line 4 : view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin : line 5 : view_yview[view_current] -> __view_get( e__VW.YView, view_current )
+
+Converting GML script : ${project_dir}\objects\obj_special\Draw_0.gml
+Converted builtin : line 4 : view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin : line 5 : view_yview[view_current] -> __view_get( e__VW.YView, view_current )
+Converted builtin : line 4 : view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Converted builtin : line 5 : view_hview[view_current] -> __view_get( e__VW.HView, view_current )
+
+Converting GML script : ${project_dir}\objects\obj_rightArrow\Draw_0.gml
+Converted builtin : line 4 : view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin : line 5 : view_yview[view_current] -> __view_get( e__VW.YView, view_current )
+Converted builtin : line 5 : view_hview[view_current] -> __view_get( e__VW.HView, view_current )
+
+Converting GML script : ${project_dir}\objects\obj_leftArrow\Draw_0.gml
+Converted builtin : line 4 : view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin : line 5 : view_yview[view_current] -> __view_get( e__VW.YView, view_current )
+Converted builtin : line 5 : view_hview[view_current] -> __view_get( e__VW.HView, view_current )
+
+Converting GML script : ${project_dir}\objects\obj_jump\Draw_0.gml
+Converted builtin : line 4 : view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin : line 5 : view_yview[view_current] -> __view_get( e__VW.YView, view_current )
+Converted builtin : line 4 : view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Converted builtin : line 5 : view_hview[view_current] -> __view_get( e__VW.HView, view_current )
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit.
+game speed set to 30
+added compatibility script action/action_kill_object.gml
+added compatibility script action/action_set_alarm.gml
+added compatibility script action/action_set_motion.gml
+added compatibility script instance/instance_create.gml
+added compatibility script object/object_get_depth.gml
+added compatibility script view/__view_get.gml
+added compatibility script action/__init_action.gml
+added compatibility script view/__init_view.gml
+added compatibility script __init_global.gml
+added compatibility script __global_object_depths.gml

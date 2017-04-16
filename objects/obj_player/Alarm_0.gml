@@ -1,0 +1,2 @@
+/// @AlarmToReverseInvert
+state = states.normal;

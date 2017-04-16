@@ -1,0 +1,3 @@
+///DrawLevelText
+draw_self();
+
